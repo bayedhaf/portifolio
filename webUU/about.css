@@ -1,0 +1,196 @@
+* {
+    margin:0;
+    padding: 0;
+    border-radius: 1px;
+}
+
+.aboutme{
+    height: 400px;
+    width: 45%;
+    background-color: rgb(221, 221, 230);
+    float: left;
+    color:black;
+    text-align: center;
+    padding-right: 2%;
+    flex-wrap: wrap;
+    #name{
+        color:chocolate;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+}
+
+.aboutmein1{
+    
+    height: 400px;
+    background-color: orangered;
+    width: 2%;
+    float: left;
+}
+.greeting{
+    color:green;
+    background-color: white;
+}
+.aboutme2{
+    height: 400px;
+    width: 45%;
+    background-color: rgb(221, 221, 230);
+    float: right;
+    color:red;
+    text-align: center;
+    padding-left: 2%;
+    flex-wrap: wrap;
+    #point1{
+        color: blue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #point2{
+        color: olivedrab;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+}
+
+.aboutmein2{
+    height: 400px;
+    background-color: orangered;
+    width: 2%;
+    float: left;
+    padding-left: 0;
+    margin-left: 0;
+ 
+    
+}
+
+.aboutme3{
+    height: 400px;
+    width: 45%;
+    background-color: rgb(221, 221, 230);
+    float: left;
+    color:red;
+    text-align:left;
+    
+    padding-right: 2%;
+    margin-top: 20px;
+    margin-right:10px;
+    flex-wrap: wrap;
+    #skill{
+        text-align: center;
+        color: blue;
+        font-size:xx-large;
+        font-stretch: condensed;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+}
+
+.aboutmein3{
+    height: 350px;
+    background-color: orangered;
+    width: 2%;
+    float: left;
+    margin-top: 20px;
+}
+
+.aboutme4{
+    height: 400px;
+    width: 45%;
+    background-color: rgb(221, 221, 230);
+    float: right;
+    color:red;
+    text-align: center;
+    padding-left: 0;
+    margin-top: 20px;
+    margin-left: 0;
+    padding-left: 2%;
+    flex-wrap: wrap;
+    #plan{
+        color:blue;
+        font-size: xx-large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+}
+
+.aboutmein4{
+    height: 350px;
+    background-color: orangered;
+    width: 2%;
+    float: left;
+    margin-top: 20px;
+}
+
+.aboutme5{
+    /*background-image: url(comp/M.jpg);*/
+    margin-top: 20px;
+    height: 400px;
+    width: 45%;
+    background-color: rgb(221, 221, 230);
+    float: left;
+    color:red;
+    text-align: center;
+    
+    padding-right: 2%;
+    flex-wrap: wrap;
+    
+
+}
+
+.aboutmein5{
+    margin-top: 10px;
+
+    height: 350px;
+    background-color: orangered;
+    width: 2%;
+    float: left;
+}
+#innerA5{
+    margin-top: 20px;
+    height: 280px;
+    width: 70%;
+    /*background-color:rgb(161, 210, 238);*/
+     margin-left: 15%;
+    color:red;
+    text-align: center;
+    padding-left: 2%;
+    flex-wrap: wrap;
+
+}
+.aboutme5.innerA5:hover{
+    background-color: aliceblue;
+}
+
+.aboutme6{
+    margin-top: 20px;
+    height: 400px;
+    width: 45%;
+    background-color: rgb(221, 221, 230);
+    float: right;
+    color:red;
+    text-align: center;
+    padding-left: 2%;
+    flex-wrap: wrap;
+
+}
+
+.aboutmein6{
+    margin-top: 10px;
+    height: 350px;
+    background-color: orangered;
+    width: 2%;
+    float: left;
+}
+
+
+.innerA6{
+    margin-top: 20px;
+    height: 280px;
+    width: 70%;
+    background-color: rgb(161, 210, 238);
+     margin-left: 15%;
+    color:black;
+    text-align: center;
+    padding-left: 2%;
+    flex-wrap: wrap;
+
+}

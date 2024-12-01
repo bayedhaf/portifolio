@@ -1,0 +1,41 @@
+
+ul.lili{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border: 1px solid red;
+    text-decoration: none;
+
+}
+
+ul.lili li{
+    float: left;
+}
+
+ul.lili li a{
+    display: block;
+    padding: 10px  20px;
+    background-color: black;
+    text-align: center;
+
+}
+ul.lili li a:hover{
+    background-color: red;
+}
+
+ul.lili li a.activi {
+    background-color: #04AA6D;
+    color:white;
+}
+ul.lili li.right{
+    float:right;
+    
+}
+
+@media screen and (max-width: 600px)
+ {
+    ul.lili li.right, 
+    ul.lili li {float: none;}
+  }

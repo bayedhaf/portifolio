@@ -13,12 +13,12 @@
     text-align: center;
     padding-right: 2%;
     flex-wrap: wrap;
-    #name{
-        color:chocolate;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+    
 }
-
+#name{
+    color:chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .aboutmein1{
     
     height: 400px;
@@ -39,15 +39,17 @@
     text-align: center;
     padding-left: 2%;
     flex-wrap: wrap;
-    #point1{
-        color: blue;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-    #point2{
-        color: olivedrab;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+   
 
+}
+/*updated part*/
+#point1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#point2{
+    color: olivedrab;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .aboutmein2{
@@ -73,14 +75,16 @@
     margin-top: 20px;
     margin-right:10px;
     flex-wrap: wrap;
-    #skill{
-        text-align: center;
-        color: blue;
-        font-size:xx-large;
-        font-stretch: condensed;
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
-    }
+   
 
+}
+/*html skill part css in the */
+#skill{
+    text-align: center;
+    color: blue;
+    font-size:xx-large;
+    font-stretch: condensed;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .aboutmein3{
@@ -103,13 +107,14 @@
     margin-left: 0;
     padding-left: 2%;
     flex-wrap: wrap;
-    #plan{
-        color:blue;
-        font-size: xx-large;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+   
 
 
+}
+#plan{
+    color:blue;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .aboutmein4{
